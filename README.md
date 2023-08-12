@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shubham kumar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<image src="https://raw.githubusercontent.com/gist/Prince-Shivaram/3ace2c813ca49546f3f5f20cd03a2d3e/raw/6058e76860d16ee29df949da3166b3653959318f/hello.gif">
+<image align="center" src="https://raw.githubusercontent.com/gist/Prince-Shivaram/3ace2c813ca49546f3f5f20cd03a2d3e/raw/6058e76860d16ee29df949da3166b3653959318f/hello.gif">
 
 - 🌱 I’m currently learning **full stack development**
 
