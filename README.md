@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shubham kumar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhamsingh152002&label=Profile%20views&color=0e75b6&style=flat" alt="shubhamsingh152002" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shubhamsingh152002" alt="shubhamsingh152002" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/shubhamsinghh__" target="blank"><img src="https://img.shields.io/twitter/follow/shubhamsinghh__?logo=twitter&style=for-the-badge" alt="shubhamsinghh__" /></a> </p>
-
 - 🌱 I’m currently learning **full stack development**
 
 - 💬 Ask me about **JavaScript, React**
